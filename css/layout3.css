@@ -1,0 +1,14 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+
+
+
+
+#main_pic { background:#FFC; width:100px; height:100px; float:left;}
+#main_above { background:#F96; width:683px; height:100px; float:left;}
+#main_above p {font-size:12px; font-family:微软雅黑;}
+#main_above p a{font-size:30px; color:#F00;}
+
+#side_info{ background:#F99; width:210px; height:550px; float:right;}
