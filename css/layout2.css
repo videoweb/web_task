@@ -1,0 +1,17 @@
+@charset "utf-8";
+/* CSS Document */
+
+#mode {
+	width:300px;
+	height:180px;
+	background:#FFC;
+	float: left;
+	margin:2px 15px 15px 0px;
+}
+
+#mode_pic{ background:#F96; width:150px; height:120px; float:left;}
+
+#mode_mes1{ float:right; width:150px; height:120px;}
+#mode_mes1 ul { line-height:180%; font-size:13px; font-family:微软雅黑;}
+
+#mode_mes2{ float:left; font-size:15px; font-family:微软雅黑;}
